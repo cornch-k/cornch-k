@@ -11,7 +11,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 ### What I'm Working On
 
 - 🎲 **TLUDUS** - A strategic tic-tac-toe variant with progressive AI difficulty and unique pushing mechanics (Unity/C#)
-- 🃏 **Balatro Score Calculator** - Combinatorial optimization tool for poker-based roguelike game (C++/Python)
+- 🃏 **Balatro Score Calculator** - Combinatorial optimization tool for poker-based roguelike game (C++)
 - 🌐 **ASP.NET Core Projects** - Learning backend development with .NET ecosystem
 
 ### Tech Stack
@@ -71,7 +71,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 ### 現在取り組んでいるプロジェクト
 
 - 🎲 **TLUDUS** - 段階的AI難易度と独自のプッシュ機能を持つ戦略的な三目並べ (Unity/C#)
-- 🃏 **Balatro Score Calculator** - ポーカーベースのローグライクゲーム用の組み合わせ最適化ツール (C++/Python)
+- 🃏 **Balatro Score Calculator** - ポーカーベースのローグライクゲーム用の組み合わせ最適化ツール (C++)
 - 🌐 **ASP.NET Core Projects** - .NETエコシステムでバックエンド開発を学習中
 
 ### 技術スタック

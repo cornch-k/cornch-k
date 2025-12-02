@@ -1,6 +1,6 @@
-# Hi 👋, I'm [Ahn Gi Gyeom]
+# Hi 👋, I'm [Cornch]
 
-> Also known as **Cornch** in online communities
+> Also known as **NAV** in online communities
 
 ## About Me
 
@@ -58,9 +58,9 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 </div>
 
-# はじめまして、[アン・ギ・ギョム]です
+# はじめまして、[Cornch（コンチ)]です
 
-> オンラインでは **Cornch（コンチ）** として活動しています
+> オンラインでは **NAV（ナブ）** として活動しています
 
 ## 自己紹介
 

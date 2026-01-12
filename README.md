@@ -17,6 +17,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 ### Tech Stack
 
 **Languages:**
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
@@ -25,6 +26,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 </p>
 
 **Game Development & Tools:**
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/>
@@ -35,8 +37,8 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 ### Currently Learning
 
 - Advanced Unity features (Coroutines, AI implementation, Game Architecture, etc)
-- Object-Oriented Programming with Kotlin & C#
-- Computer Architecture with picoMIPS
+- Object-Oriented Programming with C#
+- Embedded Systems at Professor's Company (Internship) with nRF52840DK
 - Japanese Language (目標: JLPT N1)
 
 ### Interests
@@ -64,15 +66,15 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 ## 自己紹介
 
-[韓国航空大学](http://sw.kau.ac.kr/)のソフトウェア工学科2年生です。ゲーム開発とコンピュータアーキテクチャに情熱を持っています。現在、Unityでゲーム開発を行います。
+[韓国航空大学](http://sw.kau.ac.kr/)のソフトウェア工学科 2 年生です。ゲーム開発とコンピュータアーキテクチャに情熱を持っています。現在、Unity でゲーム開発を行います。
 
-🎮 **ゲーム開発者** | 💻 **システムプログラミング愛好家** | 🇯🇵 **日本語学習中（JLPT N1目標）**
+🎮 **ゲーム開発者** | 💻 **システムプログラミング愛好家** | 🇯🇵 **日本語学習中（JLPT N1 目標）**
 
 ### 現在取り組んでいるプロジェクト
 
-- 🎲 **TLUDUS** - 段階的AI難易度と独自のプッシュ機能を持つ戦略的な三目並べ (Unity/C#)
+- 🎲 **TLUDUS** - 段階的 AI 難易度と独自のプッシュ機能を持つ戦略的な三目並べ (Unity/C#)
 - 🃏 **Balatro Score Calculator** - ポーカーベースのローグライクゲーム用の組み合わせ最適化ツール (C++)
-- 🌐 **ASP.NET Core Projects** - .NETエコシステムでバックエンド開発を学習中
+- 🌐 **ASP.NET Core Projects** - .NET エコシステムでバックエンド開発を学習中
 
 ### 技術スタック
 
@@ -80,9 +82,9 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 ### 現在学習中
 
-- 高度なUnity機能（コルーチン、AI実装、ゲームアーキテクチャ）
-- KotlinとC#でオブジェクト指向プログラミング
-- picoMIPSでコンピュータアーキテクチャ
+- 高度な Unity 機能（コルーチン、AI 実装、ゲームアーキテクチャ）
+- C#でオブジェクト指向プログラミング
+- 教授の会社で組み込みシステム(インターンシップ) with nRF52840DK
 - 日本語（目標：JLPT N1）
 
 ### 興味分野

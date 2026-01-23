@@ -19,6 +19,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 **Languages:**
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
@@ -39,6 +40,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 - Advanced Unity features (Coroutines, AI implementation, Game Architecture, etc)
 - Object-Oriented Programming with C#
 - Embedded Systems at Professor's Company (Internship) with nRF52840DK
+- Embedded Systems with STM32F411RE
 - Japanese Language (目標: JLPT N1)
 
 ### Interests
@@ -85,6 +87,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 - 高度な Unity 機能（コルーチン、AI 実装、ゲームアーキテクチャ）
 - C#でオブジェクト指向プログラミング
 - 教授の会社で組み込みシステム(インターンシップ) with nRF52840DK
+- 組み込みシステム with STM32F411RE
 - 日本語（目標：JLPT N1）
 
 ### 興味分野

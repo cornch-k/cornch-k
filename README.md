@@ -4,14 +4,13 @@
 
 ## About Me
 
-I'm a **Software Engineering student** at [Korea Aerospace University](http://sw.kau.ac.kr/), passionate about **game development** and **computer architecture**. Currently in my 2nd year, I'm building games with Unity.
+I'm a **Software Engineering student** at [Korea Aerospace University](http://sw.kau.ac.kr/), passionate about **embedded systems** and **computer architecture**. Currently in my 3rd year, I'm focusing on low-level programming and hardware-software integration.
 
-🎮 **Game Developer** | 💻 **System Programming Enthusiast** | 🇯🇵 **Studying Japanese (JLPT N1 preparation)**
+💻 **Embedded Systems Enthusiast** | 🔧 **System Programming** | 🇯🇵 **Studying Japanese (JLPT N1 preparation)**
 
 ### What I'm Working On
 
-- 🎲 **TLUDUS** - A strategic tic-tac-toe variant with progressive AI difficulty and unique pushing mechanics (Unity/C#)
-- 🃏 **Balatro Score Calculator** - Combinatorial optimization tool for poker-based roguelike game (C++)
+- 🔧 **Embedded Systems Internship** (Jan 2026, Mar 2026 - Jun 2026) - Embedded firmware development and porting legacy C codebase to Rust with nRF52840DK
 - 🌐 **ASP.NET Core Projects** - Learning backend development with .NET ecosystem
 
 ### Tech Stack
@@ -21,15 +20,14 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/>
 </p>
 
-**Game Development & Tools:**
+**Embedded Systems & Tools:**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
@@ -37,17 +35,17 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 ### Currently Learning
 
-- Advanced Unity features (Coroutines, AI implementation, Game Architecture, etc)
-- Object-Oriented Programming with C#
 - Embedded Systems at Professor's Company (Internship) with nRF52840DK
 - Embedded Systems with STM32F411RE
+- Rust for Embedded Systems
 - Japanese Language (目標: JLPT N1)
 
 ### Interests
 
-- 🎮 Game Programming & Design
+- 🔧 Embedded Systems & Firmware Development
 - 🏗️ Computer Architecture
-- 🎌 Japanese Gaming Industry
+- ⚡ Hardware-Software Integration & IoT
+- 🇯🇵 Japanese Language & Culture
 
 ### Connect With Me
 
@@ -68,14 +66,13 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 ## 自己紹介
 
-[韓国航空大学](http://sw.kau.ac.kr/)のソフトウェア工学科 2 年生です。ゲーム開発とコンピュータアーキテクチャに情熱を持っています。現在、Unity でゲーム開発を行います。
+[韓国航空大学](http://sw.kau.ac.kr/)のソフトウェア工学科 3 年生です。組み込みシステムとコンピュータアーキテクチャに情熱を持っています。現在、低レベルプログラミングとハードウェア・ソフトウェアの統合に注力しています。
 
-🎮 **ゲーム開発者** | 💻 **システムプログラミング愛好家** | 🇯🇵 **日本語学習中（JLPT N1 目標）**
+💻 **組み込みシステム愛好家** | 🔧 **システムプログラミング** | 🇯🇵 **日本語学習中（JLPT N1 目標）**
 
 ### 現在取り組んでいるプロジェクト
 
-- 🎲 **TLUDUS** - 段階的 AI 難易度と独自のプッシュ機能を持つ戦略的な三目並べ (Unity/C#)
-- 🃏 **Balatro Score Calculator** - ポーカーベースのローグライクゲーム用の組み合わせ最適化ツール (C++)
+- 🔧 **組み込みシステムインターンシップ** (2026年1月、2026年3月 - 6月) - 組み込みファームウェア開発およびCからRustへのコードベース移植 (nRF52840DK)
 - 🌐 **ASP.NET Core Projects** - .NET エコシステムでバックエンド開発を学習中
 
 ### 技術スタック
@@ -84,17 +81,17 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 ### 現在学習中
 
-- 高度な Unity 機能（コルーチン、AI 実装、ゲームアーキテクチャ）
-- C#でオブジェクト指向プログラミング
 - 教授の会社で組み込みシステム(インターンシップ) with nRF52840DK
 - 組み込みシステム with STM32F411RE
+- 組み込みシステム向け Rust
 - 日本語（目標：JLPT N1）
 
 ### 興味分野
 
-- 🎮 ゲームプログラミング＆デザイン
+- 🔧 組み込みシステム＆ファームウェア開発
 - 🏗️ コンピュータアーキテクチャ
-- 🎌 日本のゲーム業界
+- ⚡ ハードウェア・ソフトウェア統合＆IoT
+- 🇯🇵 日本語＆日本文化
 
 ### 連絡先
 

@@ -35,7 +35,7 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 ### Currently Learning
 
-- Embedded Systems at Professor's Company (Internship) with nRF52840DK
+- Embedded Systems at Professor's Company (Internship) with nRF52840DK (BLE, ANT+)
 - Embedded Systems with STM32F411RE
 - Rust for Embedded Systems
 - Japanese Language (目標: JLPT N1)
@@ -56,44 +56,44 @@ I'm a **Software Engineering student** at [Korea Aerospace University](http://sw
 
 <div align="center">
 
-## 日本語版 / Japanese Version
+## 한국어 버전 / Korean Version
 
 </div>
 
-# はじめまして、[Cornch（コンチ)]です
+# 안녕하세요, [Cornch]입니다
 
-> オンラインでは **NAV（ナブ）** として活動しています
+> 온라인에서는 **NAV**로 활동하고 있습니다
 
-## 自己紹介
+## 자기소개
 
-[韓国航空大学](http://sw.kau.ac.kr/)のソフトウェア工学科 3 年生です。組み込みシステムとコンピュータアーキテクチャに情熱を持っています。現在、低レベルプログラミングとハードウェア・ソフトウェアの統合に注力しています。
+[한국항공대학교](http://sw.kau.ac.kr/) 소프트웨어학과 3학년입니다. **임베디드 시스템**과 **컴퓨터 아키텍처**에 관심을 가지고 있으며, 현재 저수준 프로그래밍과 하드웨어-소프트웨어 통합에 집중하고 있습니다.
 
-💻 **組み込みシステム愛好家** | 🔧 **システムプログラミング** | 🇯🇵 **日本語学習中（JLPT N1 目標）**
+💻 **임베디드 시스템** | 🔧 **시스템 프로그래밍** | 🇯🇵 **일본어 학습 중 (JLPT N1 목표)**
 
-### 現在取り組んでいるプロジェクト
+### 현재 진행 중인 프로젝트
 
-- 🔧 **組み込みシステムインターンシップ** (2026年1月、2026年3月 - 6月) - 組み込みファームウェア開発およびCからRustへのコードベース移植 (nRF52840DK)
-- 🌐 **ASP.NET Core Projects** - .NET エコシステムでバックエンド開発を学習中
+- 🔧 **임베디드 시스템 인턴십** (2026년 1월, 2026년 3월 - 6월) - 임베디드 펌웨어 개발 및 C 코드베이스를 Rust로 포팅 (nRF52840DK, BLE, ANT+)
+- 🌐 **ASP.NET Core 프로젝트** - .NET 생태계로 백엔드 개발 학습 중
 
-### 技術スタック
+### 기술 스택
 
-上記の英語版をご参照ください。
+위의 영어 버전을 참고해 주세요.
 
-### 現在学習中
+### 현재 학습 중
 
-- 教授の会社で組み込みシステム(インターンシップ) with nRF52840DK
-- 組み込みシステム with STM32F411RE
-- 組み込みシステム向け Rust
-- 日本語（目標：JLPT N1）
+- 교수님 회사에서 임베디드 시스템 (인턴십) with nRF52840DK (BLE, ANT+)
+- 임베디드 시스템 with STM32F411RE
+- Rust for 임베디드 시스템
+- 일본어 (목표: JLPT N1)
 
-### 興味分野
+### 관심 분야
 
-- 🔧 組み込みシステム＆ファームウェア開発
-- 🏗️ コンピュータアーキテクチャ
-- ⚡ ハードウェア・ソフトウェア統合＆IoT
-- 🇯🇵 日本語＆日本文化
+- 🔧 임베디드 시스템 & 펌웨어 개발
+- 🏗️ 컴퓨터 아키텍처
+- ⚡ 하드웨어-소프트웨어 통합 & IoT
+- 🇯🇵 일본어 & 일본 문화
 
-### 連絡先
+### 연락처
 
-📫 **Email:** ditto_eevee@icloud.com  
+📫 **Email:** ditto_eevee@icloud.com
 🔗 **GitHub:** [github.com/cornch-k](https://github.com/cornch-k)
